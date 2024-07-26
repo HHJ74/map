@@ -1,0 +1,62 @@
+/*  */
+
+.wrapper {
+  position: relative;
+}
+
+
+/* header */
+header {
+  position: fixed;
+  display:flex;
+  width: 100%;
+  /* height: auto; */
+  padding: 15px;
+  z-index: 999; 
+  /* border: 1px solid; */
+  align-items: center;
+  justify-content: center;
+}
+
+header .search-engine{
+  display: flex;
+  justify-content: center;
+  position: relative;
+  width: 50%;
+  /* background: red; */
+}
+
+
+
+/* map */
+section {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+section .img{
+  /* position: absolutse; */
+  top: 0;
+  height: 100%;
+}
+
+
+/* footer */
+
+footer{
+  position: fixed;
+  display:inline-flex;
+  width: 100%;
+  /* height: auto; */
+  padding: 15px;
+  z-index: 999; 
+  /* border: 1px solid; */
+  align-items: center;
+  justify-content: center;
+}
+
