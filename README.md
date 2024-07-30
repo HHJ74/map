@@ -1,0 +1,2 @@
+- In this project, Will learn making simple map using Naver cloud flat form API.
+- And also practice CSS, HTML structure making
